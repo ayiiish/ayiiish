@@ -1,5 +1,6 @@
 <!-- Profile Views Counter -->
 [![](https://visitcount.itsvg.in/api?id=deluluayesha&icon=8&color=5)](https://visitcount.itsvg.in)
+<img  align='right' src="https://github.com/deluluayesha/deluluayesha/blob/main/flowerzbanner1.jpg?raw=true"> 
 
 <h3> < Hi Evivun, I'm Ayesha</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
             <img  align='right' src="https://github.com/deluluayesha/deluluayesha/blob/main/book%20quote.jpg?raw=true"> 
