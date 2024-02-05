@@ -13,6 +13,10 @@ Oh, did I forget to mention my undying love for cattoz and rabbits? 🐱🐰 You
 Ahhh...!!! the therapeutic presence of cattoz and rabbits, will gonna get me along this just purr-fectly! 🐾💕🚀🌈
 </p>
 
+<h3 align="center">
+<img src="https://github.com/deluluayesha/deluluayesha/blob/main/quran3_150.jpeg?raw=true"> 
+</h3>
+
 # GitHub Stats:
 <h3 align="center">
             
@@ -23,6 +27,7 @@ Ahhh...!!! the therapeutic presence of cattoz and rabbits, will gonna get me alo
             🔝 Top Contributed Repo
             
 ![](https://github-contributor-stats.vercel.app/api?username=deluluayesha&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+</h3>
 </h3>
 
 ## 🏆 GitHub Trophies
