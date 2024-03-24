@@ -1,16 +1,16 @@
 <!-- Profile Views Counter -->
 [![](https://visitcount.itsvg.in/api?id=deluluayesha&icon=8&color=5)](https://visitcount.itsvg.in)
 
-<h1 align="center"> < Hi Evivun, I'm Ayesha</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"> < Hi, I'm Ayesha</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
             <img  align='right' src="https://github.com/deluluayesha/deluluayesha/blob/main/book%20quote.jpg?raw=true"> 
 <p>
-Navigating through the wild 💀👾 world of GitHub and not made to code but draw tingzzz. Yup, you heard it right—I'm all about thoz strokes of creativity rather than scary linez of code 😞. 🌳 Honestly, I'm more into artsy vibes than deciphering lines of code. 🎨💖
+Navigating through the wild 💀👾 world of GitHub and not made to code but draw things. You heard it right—I'm all about those strokes of creativity rather than scary lines of code 😞. 🌳 Honestly, I'm more into artsy vibes than deciphering lines of code. 🎨💖
             
-GitHub and I have this kinda shcare-shcare relationship. It's like wandering into a dark forest ☠️🦁 where all the trees are made of code, and I'm armed with nothing but my artistic instincts. 😬 But hey, who said an artist can't conquer the coding wilderness, right?And let's not forget my passion for books! 📖 They're like my escape pods from the coding universe. If I'm not adding a splash of color to repositories, you'll find me lost in the pages of a good book.
+GitHub and I have this quite scare-scare relationship. It's like wandering into a dark forest ☠️🦁 where all the trees are made of code, and I'm armed with nothing but my artistic instincts. 😬 But hey, who said an artist can't conquer the coding wilderness, right? And let's not forget my passion for books! 📖 They're like my escape pods from the coding universe. If I'm not adding a splash of colour to repositories, you'll find me lost in the pages of a good book.
 
-Oh, did I forget to mention my undying love for cattoz and rabbits? 🐱🐰 You'll catch me sneaking in a cat meme or two into my commit messages because, let's be real, every coding project needs a touch of feline wisdom. 🐾 
+Did I forget to mention my undying love for cats and rabbits? 🐱🐰 You'll catch me sneaking in a cat meme or two into my commit messages because, let's be real, every coding project needs a touch of feline wisdom. 🐾 
 
-Ahhh...!!! the therapeutic presence of cattoz and rabbits, will gonna get me along this just purr-fectly! 🐾💕🚀🌈
+Ahhh...!!! the therapeutic presence of cats and rabbits will get me along this just purr-fectly! 🐾💕🚀🌈
 </p>
 
 <h3 align="center">
